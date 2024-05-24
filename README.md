@@ -1,21 +1,20 @@
-<h1><img src="logo.png" alt="animated image loader"></h1>
+<h1><img src="https://github.com/wasiquehaider/react-native-animated-scroll/blob/main/logo.png" alt="animated image loader"></h1>
 
-[![npm version](https://img.shields.io/npm/v/react-native-animated-image-loader.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-animated-image-loader)
-[![npm](https://img.shields.io/npm/dt/react-native-animated-image-loader.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-animated-image-loader)
-![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg?style=for-the-badge)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![format prettier](https://img.shields.io/badge/format-prettier-ff69b4.svg?style=for-the-badge)](https://prettier.io)
-[![lint-eslint](https://img.shields.io/badge/lint-eslint-4b32c3.svg?style=for-the-badge)](https://eslint.org/)
+![npm version](https://img.shields.io/badge/npm-1.0.6-brightgreen)
+![Platform - Android and iOS](https://img.shields.io/badge/Platform-Android_%7C_IOS-blue)
+[![License: MIT](https://img.shields.io/badge/Licence-MIT-lightGreen)](https://opensource.org/licenses/MIT)
+[![format prettier](https://img.shields.io/badge/Format-Prettier-fc0fc0)](https://prettier.io)
+[![lint-eslint](https://img.shields.io/badge/lint-eslint-4b32c3)](https://eslint.org/)
 
 <table>
   <tr>
     <td align="center">
       <img alt="React Native Bouncy Checkbox"
-        src="demo-ios.gif" />
+        src="https://github.com/wasiquehaider/react-native-animated-scroll/blob/main/demo-ios.gif" />
     </td>
     <td align="center">
       <img alt="React Native Bouncy Checkbox"
-        src="demo-android.gif" />
+        src="https://github.com/wasiquehaider/react-native-animated-scroll/blob/main/demo-android.gif" />
     </td>
    </tr>
 </table>
